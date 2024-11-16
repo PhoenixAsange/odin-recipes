@@ -1,0 +1,20 @@
+[33mcommit 6139f31e3c27bd78db18e577b328a98dfc70e0d5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: PhoenixAsange <phoenixxasange@gmail.com>
+Date:   Sun Nov 17 09:19:35 2024 +1000
+
+    Created homepage and pasta recipe
+
+[33mcommit 7d4979360a1eaf79baa3ef1bcf6f1ba7cd36a298[m
+Author: PhoenixAsange <phoenixxasange@gmail.com>
+Date:   Sun Nov 17 08:45:22 2024 +1000
+
+    Create basic file system and README
+    
+    Created index.html pasta.html
+    Edited README
+
+[33mcommit 36b675a731d7ad4d6da572e3849859b7b266082a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PhoenixAsange <187343306+PhoenixAsange@users.noreply.github.com>
+Date:   Sun Nov 17 08:39:38 2024 +1000
+
+    Initial commit
